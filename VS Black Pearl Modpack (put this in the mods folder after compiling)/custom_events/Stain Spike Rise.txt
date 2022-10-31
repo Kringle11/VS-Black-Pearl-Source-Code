@@ -1,0 +1,2 @@
+Makes a Stain Spike rise.
+Value 1: Specifies which arrow it will appear. (1 = Purple, 2 = Blue, 3 = Green, 4 = Red)

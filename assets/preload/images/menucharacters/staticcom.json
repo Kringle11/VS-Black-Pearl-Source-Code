@@ -1,0 +1,10 @@
+{
+	"idle_anim": "M StaticCom Idle",
+	"confirm_anim": "M StaticCom Idle",
+	"position": [
+		-78,
+		160
+	],
+	"scale": 0.7,
+	"image": "Menu_StaticCom"
+}

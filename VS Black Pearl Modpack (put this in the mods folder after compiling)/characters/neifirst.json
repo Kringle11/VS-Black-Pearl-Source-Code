@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-188,
+				403
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "neifirst idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-188,
+				472
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "neifirst singUP0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-146,
+				374
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "neifirst singDOWN0"
+		},
+		{
+			"offsets": [
+				-80,
+				362
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "neifirst singLEFT0"
+		},
+		{
+			"offsets": [
+				-168,
+				391
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "neifirst singRIGHT0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/neifirst_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "neifirst",
+	"flip_x": false,
+	"healthbar_colors": [
+		1,
+		8,
+		129
+	],
+	"camera_position": [
+		140,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

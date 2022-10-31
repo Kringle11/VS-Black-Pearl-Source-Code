@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="black-pearl.png">
+<SubTexture name="black-pearl idle dance0000" x="0" y="1324" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="black-pearl idle dance0001" x="0" y="1324" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="black-pearl idle dance0002" x="1626" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="black-pearl idle dance0003" x="1626" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="black-pearl idle dance0004" x="1084" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="black-pearl idle dance0005" x="1084" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="black-pearl idle dance0006" x="542" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="black-pearl idle dance0007" x="542" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="black-pearl idle dance0008" x="0" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="black-pearl idle dance0009" x="0" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="black-pearl idle dance0010" x="0" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="black-pearl idle dance0011" x="0" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="black-pearl idle dance0012" x="0" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="black-pearl idle dance0013" x="0" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="black-pearl idle dance0014" x="0" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="black-pearl idle dance0015" x="0" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="black-pearl NOTE UP0000" x="542" y="1324" width="925" height="1316" frameX="0" frameY="0" frameWidth="925" frameHeight="1316" />
+<SubTexture name="black-pearl NOTE UP0001" x="1467" y="1324" width="925" height="1316" frameX="0" frameY="0" frameWidth="925" frameHeight="1316" />
+<SubTexture name="black-pearl NOTE UP0002" x="2392" y="1324" width="925" height="1316" frameX="0" frameY="0" frameWidth="925" frameHeight="1316" />
+<SubTexture name="black-pearl NOTE DOWN0000" x="0" y="2648" width="1092" height="1253" frameX="0" frameY="0" frameWidth="1092" frameHeight="1253" />
+<SubTexture name="black-pearl NOTE DOWN0001" x="1092" y="2648" width="1092" height="1253" frameX="0" frameY="0" frameWidth="1092" frameHeight="1253" />
+<SubTexture name="black-pearl NOTE DOWN0002" x="2184" y="2648" width="1092" height="1253" frameX="0" frameY="0" frameWidth="1092" frameHeight="1253" />
+<SubTexture name="black-pearl NOTE LEFT0000" x="3276" y="2648" width="1042" height="1374" frameX="0" frameY="0" frameWidth="1042" frameHeight="1374" />
+<SubTexture name="black-pearl NOTE LEFT0001" x="0" y="4022" width="1042" height="1374" frameX="0" frameY="0" frameWidth="1042" frameHeight="1374" />
+<SubTexture name="black-pearl NOTE LEFT0002" x="1042" y="4022" width="1042" height="1374" frameX="0" frameY="0" frameWidth="1042" frameHeight="1374" />
+<SubTexture name="black-pearl NOTE RIGHT0000" x="2084" y="4022" width="1142" height="1374" frameX="0" frameY="0" frameWidth="1142" frameHeight="1374" />
+<SubTexture name="black-pearl NOTE RIGHT0001" x="3226" y="4022" width="1142" height="1374" frameX="0" frameY="0" frameWidth="1142" frameHeight="1374" />
+<SubTexture name="black-pearl NOTE RIGHT0002" x="0" y="5396" width="1142" height="1374" frameX="0" frameY="0" frameWidth="1142" frameHeight="1374" />
+</TextureAtlas>

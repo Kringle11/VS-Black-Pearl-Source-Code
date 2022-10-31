@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shipBop.png">
+<SubTexture name="shipBop rumble0000" x="0" y="0" width="3256" height="1526" frameX="0" frameY="0" frameWidth="3256" frameHeight="1526" />
+<SubTexture name="shipBop rumble0001" x="3256" y="0" width="3256" height="1526" frameX="0" frameY="0" frameWidth="3256" frameHeight="1526" />
+<SubTexture name="shipBop rumble0002" x="0" y="1526" width="3256" height="1526" frameX="0" frameY="0" frameWidth="3256" frameHeight="1526" />
+<SubTexture name="shipBop rumble0003" x="3256" y="1526" width="3256" height="1526" frameX="0" frameY="0" frameWidth="3256" frameHeight="1526" />
+</TextureAtlas>

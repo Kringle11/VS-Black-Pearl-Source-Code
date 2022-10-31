@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "townie-bf idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "townie-bf firstDeath"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "townie-bf deathLoop"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "townie-bf deathConfirm"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "townie-bf singRIGHTmiss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-57,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "townie-bf singRIGHT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				90
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "townie-bf singUP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				90
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "townie-bf singUPmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "townie-bf singDOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-3
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "townie-bf singDOWNmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "townie-bf singLEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "townie-bf singLEFTmiss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/townie-bf_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "townie_bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		139,
+		214,
+		254
+	],
+	"camera_position": [
+		10,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-156,
+				970
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CharRose-Fake idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-159,
+				1117
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "CharRose-Fake singUP"
+		},
+		{
+			"offsets": [
+				-160,
+				971
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "CharRose-Fake singDOWN"
+		},
+		{
+			"offsets": [
+				-65,
+				970
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "CharRose-Fake singLEFT"
+		},
+		{
+			"offsets": [
+				-158,
+				973
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "CharRose-Fake singRIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dummy_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "charcoal-pink",
+	"flip_x": false,
+	"healthbar_colors": [
+		139,
+		214,
+		254
+	],
+	"camera_position": [
+		100,
+		-1050
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

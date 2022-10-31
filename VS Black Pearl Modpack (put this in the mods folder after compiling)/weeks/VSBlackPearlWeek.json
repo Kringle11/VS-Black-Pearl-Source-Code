@@ -1,0 +1,48 @@
+{
+	"storyName": "subject 27's rude interruption",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"calchouse",
+		"darkground",
+		""
+	],
+	"songs": [
+		[
+			"cutting edge",
+			"black_pearl_v4",
+			[
+				130,
+				106,
+				138
+			]
+		],
+		[
+			"pink blood",
+			"black_pearl_v4-stain",
+			[
+				130,
+				106,
+				138
+			]
+		],
+		[
+			"weaker than you",
+			"black_pearl_v4-insane_STAIN",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "VSBlackPearlWeek"
+}

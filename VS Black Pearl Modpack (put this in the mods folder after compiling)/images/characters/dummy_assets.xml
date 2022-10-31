@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dummy.png">
+<SubTexture name="CharRose-Fake idle0000" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1" />
+<SubTexture name="CharRose-Fake singUP0000" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1" />
+<SubTexture name="CharRose-Fake singDOWN0000" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1" />
+<SubTexture name="CharRose-Fake singLEFT0000" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1" />
+<SubTexture name="CharRose-Fake singRIGHT0000" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1" />
+</TextureAtlas>

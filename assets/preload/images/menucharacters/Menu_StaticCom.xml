@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_StaticCom.png">
+<SubTexture name="M StaticCom Idle0000" x="0" y="0" width="302" height="730" frameX="0" frameY="0" frameWidth="302" frameHeight="730" />
+<SubTexture name="M StaticCom Idle0001" x="302" y="0" width="302" height="730" frameX="0" frameY="0" frameWidth="302" frameHeight="730" />
+<SubTexture name="M StaticCom Idle0002" x="0" y="730" width="302" height="730" frameX="0" frameY="0" frameWidth="302" frameHeight="730" />
+<SubTexture name="M StaticCom Idle0003" x="302" y="730" width="302" height="730" frameX="0" frameY="0" frameWidth="302" frameHeight="730" />
+<SubTexture name="M StaticCom Idle0004" x="0" y="1460" width="302" height="730" frameX="0" frameY="0" frameWidth="302" frameHeight="730" />
+</TextureAtlas>

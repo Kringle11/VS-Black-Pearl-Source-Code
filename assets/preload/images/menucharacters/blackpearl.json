@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M BlackPearl Idle",
+	"idle_anim": "M BlackPearl Idle",
+	"position": [
+		680,
+		279
+	],
+	"scale": 0.4,
+	"image": "Menu_BlackPearl"
+}

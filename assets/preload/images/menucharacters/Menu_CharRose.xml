@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CharRose-Fake.png">
+<SubTexture name="M CharRose Idle0000" x="0" y="0" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="M CharRose Idle0001" x="0" y="0" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="M CharRose Idle0002" x="956" y="0" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="M CharRose Idle0003" x="956" y="0" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="M CharRose Idle0004" x="1912" y="0" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="M CharRose Idle0005" x="1912" y="0" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="M CharRose Idle0006" x="2868" y="0" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="M CharRose Idle0007" x="2868" y="0" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="M CharRose Idle0008" x="0" y="1460" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="M CharRose Idle0009" x="0" y="1460" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="M CharRose Idle0010" x="0" y="1460" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="M CharRose Idle0011" x="0" y="1460" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="M CharRose Idle0012" x="0" y="1460" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="M CharRose Idle0013" x="0" y="1460" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="M CharRose Idle0014" x="0" y="1460" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="M CharRose Idle0015" x="0" y="1460" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+</TextureAtlas>

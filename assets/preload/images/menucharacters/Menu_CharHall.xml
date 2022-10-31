@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_DarkGround.png">
+<SubTexture name="M DarkGround Idle0000" x="0" y="0" width="2494" height="2052" frameX="0" frameY="0" frameWidth="2494" frameHeight="2052" />
+</TextureAtlas>

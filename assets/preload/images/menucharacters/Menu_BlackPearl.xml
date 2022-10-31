@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_BlackPearl.png">
+<SubTexture name="M BlackPearl Idle0000" x="0" y="1324" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="M BlackPearl Idle0001" x="0" y="1324" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="M BlackPearl Idle0002" x="1626" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="M BlackPearl Idle0003" x="1626" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="M BlackPearl Idle0004" x="1084" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="M BlackPearl Idle0005" x="1084" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="M BlackPearl Idle0006" x="542" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="M BlackPearl Idle0007" x="542" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="M BlackPearl Idle0008" x="0" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="M BlackPearl Idle0009" x="0" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="M BlackPearl Idle0010" x="0" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="M BlackPearl Idle0011" x="0" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="M BlackPearl Idle0012" x="0" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="M BlackPearl Idle0013" x="0" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="M BlackPearl Idle0014" x="0" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+<SubTexture name="M BlackPearl Idle0015" x="0" y="0" width="542" height="1324" frameX="0" frameY="0" frameWidth="542" frameHeight="1324" />
+</TextureAtlas>

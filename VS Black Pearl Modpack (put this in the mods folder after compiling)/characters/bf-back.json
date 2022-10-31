@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
+		},
+		{
+			"offsets": [
+				239,
+				155
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf-back idle dance"
+		},
+		{
+			"offsets": [
+				244,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "bf-back NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				239,
+				151
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf-back NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				237,
+				162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "bf-back NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				242,
+				162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf-back NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				245,
+				141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "bf-back NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				249,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf-back NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				254,
+				157
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "bf-back NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				252,
+				148
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf-back NOTE UP0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				257,
+				180
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "bf-back DIES",
+			"indices": []
+		},
+		{
+			"offsets": [
+				267,
+				187
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "bf-back Dead Loop"
+		},
+		{
+			"offsets": [
+				267,
+				187
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "bf-back Dead confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf-back_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		100,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

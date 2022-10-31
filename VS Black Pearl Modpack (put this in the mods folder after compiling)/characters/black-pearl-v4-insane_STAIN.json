@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-189,
+				663
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "black-pearl-v4-insane_STAIN idle dance"
+		},
+		{
+			"offsets": [
+				-143,
+				842
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "black-pearl-v4-insane_STAIN singUP0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				712
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "black-pearl-v4-insane_STAIN singLEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-248,
+				661
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "black-pearl-v4-insane_STAIN singRIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "",
+			"fps": 24,
+			"name": "",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				480
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "black-pearl-v4-insane_STAIN singDOWN0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/black-pearl-v4-insane_STAIN_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "black_pearl_v4-insane_STAIN",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		140,
+		-130
+	],
+	"sing_duration": 2,
+	"scale": 0.95
+}

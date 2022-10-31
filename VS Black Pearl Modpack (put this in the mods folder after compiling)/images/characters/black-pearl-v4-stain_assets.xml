@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="black-pearl-v4-stain.png">
+<SubTexture name="black-pearl-v4-stain idle dance0000" x="0" y="0" width="580" height="1154" frameX="0" frameY="0" frameWidth="580" frameHeight="1154" />
+<SubTexture name="black-pearl-v4-stain idle dance0001" x="0" y="0" width="580" height="1154" frameX="0" frameY="0" frameWidth="580" frameHeight="1154" />
+<SubTexture name="black-pearl-v4-stain idle dance0002" x="580" y="0" width="580" height="1154" frameX="0" frameY="0" frameWidth="580" frameHeight="1154" />
+<SubTexture name="black-pearl-v4-stain idle dance0003" x="580" y="0" width="580" height="1154" frameX="0" frameY="0" frameWidth="580" frameHeight="1154" />
+<SubTexture name="black-pearl-v4-stain idle dance0004" x="1160" y="0" width="580" height="1154" frameX="0" frameY="0" frameWidth="580" frameHeight="1154" />
+<SubTexture name="black-pearl-v4-stain idle dance0005" x="1160" y="0" width="580" height="1154" frameX="0" frameY="0" frameWidth="580" frameHeight="1154" />
+<SubTexture name="black-pearl-v4-stain idle dance0006" x="1740" y="0" width="580" height="1154" frameX="0" frameY="0" frameWidth="580" frameHeight="1154" />
+<SubTexture name="black-pearl-v4-stain idle dance0007" x="1740" y="0" width="580" height="1154" frameX="0" frameY="0" frameWidth="580" frameHeight="1154" />
+<SubTexture name="black-pearl-v4-stain idle dance0008" x="0" y="1154" width="580" height="1154" frameX="0" frameY="0" frameWidth="580" frameHeight="1154" />
+<SubTexture name="black-pearl-v4-stain idle dance0009" x="0" y="1154" width="580" height="1154" frameX="0" frameY="0" frameWidth="580" frameHeight="1154" />
+<SubTexture name="black-pearl-v4-stain idle dance0010" x="0" y="1154" width="580" height="1154" frameX="0" frameY="0" frameWidth="580" frameHeight="1154" />
+<SubTexture name="black-pearl-v4-stain idle dance0011" x="0" y="1154" width="580" height="1154" frameX="0" frameY="0" frameWidth="580" frameHeight="1154" />
+<SubTexture name="black-pearl-v4-stain idle dance0012" x="0" y="1154" width="580" height="1154" frameX="0" frameY="0" frameWidth="580" frameHeight="1154" />
+<SubTexture name="black-pearl-v4-stain idle dance0013" x="0" y="1154" width="580" height="1154" frameX="0" frameY="0" frameWidth="580" frameHeight="1154" />
+<SubTexture name="black-pearl-v4-stain idle dance0014" x="0" y="1154" width="580" height="1154" frameX="0" frameY="0" frameWidth="580" frameHeight="1154" />
+<SubTexture name="black-pearl-v4-stain idle dance0015" x="0" y="1154" width="580" height="1154" frameX="0" frameY="0" frameWidth="580" frameHeight="1154" />
+<SubTexture name="black-pearl-v4-stain singUP0000" x="580" y="1154" width="781" height="1269" frameX="0" frameY="0" frameWidth="781" frameHeight="1269" />
+<SubTexture name="black-pearl-v4-stain singUP0001" x="1361" y="1154" width="781" height="1269" frameX="0" frameY="0" frameWidth="781" frameHeight="1269" />
+<SubTexture name="black-pearl-v4-stain singUP0002" x="2142" y="1154" width="781" height="1269" frameX="0" frameY="0" frameWidth="781" frameHeight="1269" />
+<SubTexture name="black-pearl-v4-stain singDOWN0000" x="0" y="2423" width="868" height="1154" frameX="0" frameY="0" frameWidth="868" frameHeight="1154" />
+<SubTexture name="black-pearl-v4-stain singDOWN0001" x="868" y="2423" width="868" height="1154" frameX="0" frameY="0" frameWidth="868" frameHeight="1154" />
+<SubTexture name="black-pearl-v4-stain singDOWN0002" x="1736" y="2423" width="868" height="1154" frameX="0" frameY="0" frameWidth="868" frameHeight="1154" />
+<SubTexture name="black-pearl-v4-stain singLEFT0000" x="2604" y="2423" width="954" height="1212" frameX="0" frameY="0" frameWidth="954" frameHeight="1212" />
+<SubTexture name="black-pearl-v4-stain singLEFT0001" x="0" y="3635" width="954" height="1212" frameX="0" frameY="0" frameWidth="954" frameHeight="1212" />
+<SubTexture name="black-pearl-v4-stain singLEFT0002" x="954" y="3635" width="954" height="1212" frameX="0" frameY="0" frameWidth="954" frameHeight="1212" />
+<SubTexture name="black-pearl-v4-stain singRIGHT0000" x="1908" y="3635" width="868" height="1154" frameX="0" frameY="0" frameWidth="868" frameHeight="1154" />
+<SubTexture name="black-pearl-v4-stain singRIGHT0001" x="2776" y="3635" width="868" height="1154" frameX="0" frameY="0" frameWidth="868" frameHeight="1154" />
+<SubTexture name="black-pearl-v4-stain singRIGHT0002" x="0" y="4847" width="868" height="1154" frameX="0" frameY="0" frameWidth="868" frameHeight="1154" />
+</TextureAtlas>

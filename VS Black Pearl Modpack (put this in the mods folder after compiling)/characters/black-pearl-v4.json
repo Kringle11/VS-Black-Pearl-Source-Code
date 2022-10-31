@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-189,
+				663
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "black-pearl-v4 idle dance"
+		},
+		{
+			"offsets": [
+				-93,
+				802
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "black-pearl-v4 singUP0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				652
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "black-pearl-v4 singLEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-168,
+				601
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "black-pearl-v4 singRIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				610
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "black-pearl-v4 singDOWN0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/black-pearl-v4_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "black_pearl_v4",
+	"flip_x": false,
+	"healthbar_colors": [
+		130,
+		106,
+		138
+	],
+	"camera_position": [
+		140,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 0.95
+}

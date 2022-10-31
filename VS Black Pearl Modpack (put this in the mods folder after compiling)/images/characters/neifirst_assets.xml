@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="neifirst.png">
+<SubTexture name="neifirst idle dance0000" x="0" y="0" width="732" height="1030" frameX="0" frameY="0" frameWidth="732" frameHeight="1030" />
+<SubTexture name="neifirst idle dance0001" x="0" y="0" width="732" height="1030" frameX="0" frameY="0" frameWidth="732" frameHeight="1030" />
+<SubTexture name="neifirst idle dance0002" x="732" y="0" width="732" height="1030" frameX="0" frameY="0" frameWidth="732" frameHeight="1030" />
+<SubTexture name="neifirst idle dance0003" x="732" y="0" width="732" height="1030" frameX="0" frameY="0" frameWidth="732" frameHeight="1030" />
+<SubTexture name="neifirst idle dance0004" x="1464" y="0" width="732" height="1030" frameX="0" frameY="0" frameWidth="732" frameHeight="1030" />
+<SubTexture name="neifirst idle dance0005" x="1464" y="0" width="732" height="1030" frameX="0" frameY="0" frameWidth="732" frameHeight="1030" />
+<SubTexture name="neifirst idle dance0006" x="2196" y="0" width="732" height="1030" frameX="0" frameY="0" frameWidth="732" frameHeight="1030" />
+<SubTexture name="neifirst idle dance0007" x="2196" y="0" width="732" height="1030" frameX="0" frameY="0" frameWidth="732" frameHeight="1030" />
+<SubTexture name="neifirst idle dance0008" x="0" y="1030" width="732" height="1030" frameX="0" frameY="0" frameWidth="732" frameHeight="1030" />
+<SubTexture name="neifirst idle dance0009" x="0" y="1030" width="732" height="1030" frameX="0" frameY="0" frameWidth="732" frameHeight="1030" />
+<SubTexture name="neifirst idle dance0010" x="0" y="1030" width="732" height="1030" frameX="0" frameY="0" frameWidth="732" frameHeight="1030" />
+<SubTexture name="neifirst idle dance0011" x="0" y="1030" width="732" height="1030" frameX="0" frameY="0" frameWidth="732" frameHeight="1030" />
+<SubTexture name="neifirst idle dance0012" x="0" y="1030" width="732" height="1030" frameX="0" frameY="0" frameWidth="732" frameHeight="1030" />
+<SubTexture name="neifirst idle dance0013" x="0" y="1030" width="732" height="1030" frameX="0" frameY="0" frameWidth="732" frameHeight="1030" />
+<SubTexture name="neifirst idle dance0014" x="0" y="1030" width="732" height="1030" frameX="0" frameY="0" frameWidth="732" frameHeight="1030" />
+<SubTexture name="neifirst idle dance0015" x="0" y="1030" width="732" height="1030" frameX="0" frameY="0" frameWidth="732" frameHeight="1030" />
+<SubTexture name="neifirst singUP0000" x="732" y="1030" width="732" height="1132" frameX="0" frameY="0" frameWidth="732" frameHeight="1132" />
+<SubTexture name="neifirst singUP0001" x="1464" y="1030" width="732" height="1132" frameX="0" frameY="0" frameWidth="732" frameHeight="1132" />
+<SubTexture name="neifirst singUP0002" x="2196" y="1030" width="732" height="1132" frameX="0" frameY="0" frameWidth="732" frameHeight="1132" />
+<SubTexture name="neifirst singDOWN0000" x="0" y="2162" width="877" height="1030" frameX="0" frameY="0" frameWidth="877" frameHeight="1030" />
+<SubTexture name="neifirst singDOWN0001" x="877" y="2162" width="877" height="1030" frameX="0" frameY="0" frameWidth="877" frameHeight="1030" />
+<SubTexture name="neifirst singDOWN0002" x="1754" y="2162" width="877" height="1030" frameX="0" frameY="0" frameWidth="877" frameHeight="1030" />
+<SubTexture name="neifirst singLEFT0000" x="2631" y="2162" width="805" height="1030" frameX="0" frameY="0" frameWidth="805" frameHeight="1030" />
+<SubTexture name="neifirst singLEFT0001" x="0" y="3192" width="805" height="1030" frameX="0" frameY="0" frameWidth="805" frameHeight="1030" />
+<SubTexture name="neifirst singLEFT0002" x="805" y="3192" width="805" height="1030" frameX="0" frameY="0" frameWidth="805" frameHeight="1030" />
+<SubTexture name="neifirst singRIGHT0000" x="1610" y="3192" width="965" height="1081" frameX="0" frameY="0" frameWidth="965" frameHeight="1081" />
+<SubTexture name="neifirst singRIGHT0001" x="2575" y="3192" width="965" height="1081" frameX="0" frameY="0" frameWidth="965" frameHeight="1081" />
+<SubTexture name="neifirst singRIGHT0002" x="0" y="4273" width="965" height="1081" frameX="0" frameY="0" frameWidth="965" frameHeight="1081" />
+</TextureAtlas>

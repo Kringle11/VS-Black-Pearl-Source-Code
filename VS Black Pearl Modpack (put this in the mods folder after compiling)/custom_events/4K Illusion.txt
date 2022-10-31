@@ -1,0 +1,1 @@
+Shows both sides as 4k despite being 5k

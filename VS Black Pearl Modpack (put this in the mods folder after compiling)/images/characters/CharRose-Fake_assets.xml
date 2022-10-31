@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CharRose-Fake.png">
+<SubTexture name="CharRose-Fake idle0000" x="0" y="0" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="CharRose-Fake idle0001" x="0" y="0" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="CharRose-Fake idle0002" x="956" y="0" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="CharRose-Fake idle0003" x="956" y="0" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="CharRose-Fake idle0004" x="1912" y="0" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="CharRose-Fake idle0005" x="1912" y="0" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="CharRose-Fake idle0006" x="2868" y="0" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="CharRose-Fake idle0007" x="2868" y="0" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="CharRose-Fake idle0008" x="0" y="1460" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="CharRose-Fake idle0009" x="0" y="1460" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="CharRose-Fake idle0010" x="0" y="1460" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="CharRose-Fake idle0011" x="0" y="1460" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="CharRose-Fake idle0012" x="0" y="1460" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="CharRose-Fake idle0013" x="0" y="1460" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="CharRose-Fake idle0014" x="0" y="1460" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="CharRose-Fake idle0015" x="0" y="1460" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="CharRose-Fake singUP0000" x="956" y="1460" width="956" height="1606" frameX="0" frameY="0" frameWidth="956" frameHeight="1606" />
+<SubTexture name="CharRose-Fake singUP0001" x="1912" y="1460" width="956" height="1606" frameX="0" frameY="0" frameWidth="956" frameHeight="1606" />
+<SubTexture name="CharRose-Fake singUP0002" x="2868" y="1460" width="956" height="1606" frameX="0" frameY="0" frameWidth="956" frameHeight="1606" />
+<SubTexture name="CharRose-Fake singDOWN0000" x="0" y="3066" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="CharRose-Fake singDOWN0001" x="956" y="3066" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="CharRose-Fake singDOWN0002" x="1912" y="3066" width="956" height="1460" frameX="0" frameY="0" frameWidth="956" frameHeight="1460" />
+<SubTexture name="CharRose-Fake singLEFT0000" x="2868" y="3066" width="1051" height="1460" frameX="0" frameY="0" frameWidth="1051" frameHeight="1460" />
+<SubTexture name="CharRose-Fake singLEFT0001" x="0" y="4526" width="1051" height="1460" frameX="0" frameY="0" frameWidth="1051" frameHeight="1460" />
+<SubTexture name="CharRose-Fake singLEFT0002" x="1051" y="4526" width="1051" height="1460" frameX="0" frameY="0" frameWidth="1051" frameHeight="1460" />
+<SubTexture name="CharRose-Fake singRIGHT0000" x="2102" y="4526" width="1051" height="1460" frameX="0" frameY="0" frameWidth="1051" frameHeight="1460" />
+<SubTexture name="CharRose-Fake singRIGHT0001" x="3153" y="4526" width="1051" height="1460" frameX="0" frameY="0" frameWidth="1051" frameHeight="1460" />
+<SubTexture name="CharRose-Fake singRIGHT0002" x="0" y="5986" width="1051" height="1460" frameX="0" frameY="0" frameWidth="1051" frameHeight="1460" />
+</TextureAtlas>

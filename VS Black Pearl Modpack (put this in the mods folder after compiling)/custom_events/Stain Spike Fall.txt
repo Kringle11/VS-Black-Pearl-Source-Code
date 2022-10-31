@@ -1,0 +1,2 @@
+Makes a Stain Spike fall.
+Value 1: Specifies which arrow it will disappear. (1 = Purple, 2 = Blue, 3 = Green, 4 = Red)

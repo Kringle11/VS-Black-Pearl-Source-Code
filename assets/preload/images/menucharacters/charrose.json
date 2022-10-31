@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M CharRose Idle",
+	"idle_anim": "M CharRose Idle",
+	"position": [
+		950,
+		380
+	],
+	"scale": 0.4,
+	"image": "Menu_CharRose",
+	"flipX": false
+}

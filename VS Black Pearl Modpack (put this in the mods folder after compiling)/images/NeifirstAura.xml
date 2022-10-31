@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NeifirstAura.png">
+<SubTexture name="NeifirstAura Vibe0000" x="0" y="0" width="694" height="805" frameX="0" frameY="0" frameWidth="694" frameHeight="805" />
+<SubTexture name="NeifirstAura Vibe0001" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1" />
+<SubTexture name="NeifirstAura Vibe0002" x="0" y="0" width="694" height="805" frameX="0" frameY="0" frameWidth="694" frameHeight="805" />
+<SubTexture name="NeifirstAura Vibe0003" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1" />
+<SubTexture name="NeifirstAura Vibe0004" x="0" y="0" width="694" height="805" frameX="0" frameY="0" frameWidth="694" frameHeight="805" />
+<SubTexture name="NeifirstAura Vibe0005" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1" />
+<SubTexture name="NeifirstAura Vibe0006" x="0" y="0" width="694" height="805" frameX="0" frameY="0" frameWidth="694" frameHeight="805" />
+<SubTexture name="NeifirstAura Vibe0007" x="0" y="0" width="694" height="805" frameX="0" frameY="0" frameWidth="694" frameHeight="805" />
+<SubTexture name="NeifirstAura Vibe0008" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1" />
+<SubTexture name="NeifirstAura Vibe0009" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1" />
+<SubTexture name="NeifirstAura Vibe0010" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1" />
+<SubTexture name="NeifirstAura Vibe0011" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1" />
+<SubTexture name="NeifirstAura Vibe0012" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1" />
+<SubTexture name="NeifirstAura Vibe0013" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1" />
+<SubTexture name="NeifirstAura Vibe0014" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1" />
+<SubTexture name="NeifirstAura Vibe0015" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1" />
+</TextureAtlas>

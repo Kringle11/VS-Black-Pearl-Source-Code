@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="charcoal-pink.png">
+<SubTexture name="charcoal-pink idle dance0000" x="0" y="0" width="1486" height="2255" frameX="0" frameY="0" frameWidth="1486" frameHeight="2255" />
+<SubTexture name="charcoal-pink idle dance0001" x="0" y="0" width="1486" height="2255" frameX="0" frameY="0" frameWidth="1486" frameHeight="2255" />
+<SubTexture name="charcoal-pink idle dance0002" x="1486" y="0" width="1486" height="2255" frameX="0" frameY="0" frameWidth="1486" frameHeight="2255" />
+<SubTexture name="charcoal-pink idle dance0003" x="1486" y="0" width="1486" height="2255" frameX="0" frameY="0" frameWidth="1486" frameHeight="2255" />
+<SubTexture name="charcoal-pink idle dance0004" x="2972" y="0" width="1486" height="2255" frameX="0" frameY="0" frameWidth="1486" frameHeight="2255" />
+<SubTexture name="charcoal-pink idle dance0005" x="2972" y="0" width="1486" height="2255" frameX="0" frameY="0" frameWidth="1486" frameHeight="2255" />
+<SubTexture name="charcoal-pink idle dance0006" x="4458" y="0" width="1486" height="2255" frameX="0" frameY="0" frameWidth="1486" frameHeight="2255" />
+<SubTexture name="charcoal-pink idle dance0007" x="4458" y="0" width="1486" height="2255" frameX="0" frameY="0" frameWidth="1486" frameHeight="2255" />
+<SubTexture name="charcoal-pink idle dance0008" x="0" y="2255" width="1486" height="2255" frameX="0" frameY="0" frameWidth="1486" frameHeight="2255" />
+<SubTexture name="charcoal-pink idle dance0009" x="0" y="2255" width="1486" height="2255" frameX="0" frameY="0" frameWidth="1486" frameHeight="2255" />
+<SubTexture name="charcoal-pink idle dance0010" x="0" y="2255" width="1486" height="2255" frameX="0" frameY="0" frameWidth="1486" frameHeight="2255" />
+<SubTexture name="charcoal-pink idle dance0011" x="0" y="2255" width="1486" height="2255" frameX="0" frameY="0" frameWidth="1486" frameHeight="2255" />
+<SubTexture name="charcoal-pink idle dance0012" x="0" y="2255" width="1486" height="2255" frameX="0" frameY="0" frameWidth="1486" frameHeight="2255" />
+<SubTexture name="charcoal-pink idle dance0013" x="0" y="2255" width="1486" height="2255" frameX="0" frameY="0" frameWidth="1486" frameHeight="2255" />
+<SubTexture name="charcoal-pink idle dance0014" x="0" y="2255" width="1486" height="2255" frameX="0" frameY="0" frameWidth="1486" frameHeight="2255" />
+<SubTexture name="charcoal-pink idle dance0015" x="0" y="2255" width="1486" height="2255" frameX="0" frameY="0" frameWidth="1486" frameHeight="2255" />
+<SubTexture name="charcoal-pink singUP0000" x="1486" y="2255" width="1343" height="2480" frameX="0" frameY="0" frameWidth="1343" frameHeight="2480" />
+<SubTexture name="charcoal-pink singUP0001" x="2829" y="2255" width="1343" height="2480" frameX="0" frameY="0" frameWidth="1343" frameHeight="2480" />
+<SubTexture name="charcoal-pink singUP0002" x="4172" y="2255" width="1343" height="2480" frameX="0" frameY="0" frameWidth="1343" frameHeight="2480" />
+<SubTexture name="charcoal-pink singDOWN0000" x="0" y="4735" width="1528" height="2103" frameX="0" frameY="0" frameWidth="1528" frameHeight="2103" />
+<SubTexture name="charcoal-pink singDOWN0001" x="1528" y="4735" width="1528" height="2103" frameX="0" frameY="0" frameWidth="1528" frameHeight="2103" />
+<SubTexture name="charcoal-pink singDOWN0002" x="3056" y="4735" width="1528" height="2103" frameX="0" frameY="0" frameWidth="1528" frameHeight="2103" />
+<SubTexture name="charcoal-pink singLEFT0000" x="4584" y="4735" width="1681" height="2103" frameX="0" frameY="0" frameWidth="1681" frameHeight="2103" />
+<SubTexture name="charcoal-pink singLEFT0001" x="0" y="6838" width="1681" height="2103" frameX="0" frameY="0" frameWidth="1681" frameHeight="2103" />
+<SubTexture name="charcoal-pink singLEFT0002" x="1681" y="6838" width="1681" height="2103" frameX="0" frameY="0" frameWidth="1681" frameHeight="2103" />
+<SubTexture name="charcoal-pink singRIGHT0000" x="3362" y="6838" width="1528" height="2103" frameX="0" frameY="0" frameWidth="1528" frameHeight="2103" />
+<SubTexture name="charcoal-pink singRIGHT0001" x="4890" y="6838" width="1528" height="2103" frameX="0" frameY="0" frameWidth="1528" frameHeight="2103" />
+<SubTexture name="charcoal-pink singRIGHT0002" x="0" y="8941" width="1528" height="2103" frameX="0" frameY="0" frameWidth="1528" frameHeight="2103" />
+</TextureAtlas>

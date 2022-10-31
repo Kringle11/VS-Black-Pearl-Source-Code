@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-189,
+				403
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "black-pearl idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				422
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "black-pearl NOTE UP0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-21,
+				347
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "black-pearl NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				100,
+				392
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "black-pearl NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-178,
+				391
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "black-pearl NOTE RIGHT0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/black-pearl_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "black_Pearl",
+	"flip_x": false,
+	"healthbar_colors": [
+		130,
+		106,
+		138
+	],
+	"camera_position": [
+		140,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

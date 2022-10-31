@@ -1,0 +1,11 @@
+{
+	"idle_anim": "M Jade Idle",
+	"confirm_anim": "M Jade Idle",
+	"position": [
+		1030,
+		740
+	],
+	"scale": 0.35,
+	"flipX": false,
+	"image": "Menu_Jade"
+}
